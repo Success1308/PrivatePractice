@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "jsonfile": "^6.1.0",
     "moment": "^2.30.1",
